@@ -1,0 +1,1072 @@
+﻿Log file open, 11/28/19 10:34:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Platformer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.404927
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.28-09.34.05:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.28-09.34.05:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:729][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.28-09.34.05:731][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.28-09.34.05:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.28-09.34.05:745][  0]LogHAL: Display: Platform has ~ 16 GB [17096142848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.28-09.34.05:745][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.28-09.34.05:745][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.28-09.34.05:745][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:745][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Scalability.ini]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.28-09.34.05:746][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Config/Windows/Engine.ini]
+[2019.11.28-09.34.05:746][  0]LogInit: Computer: PC-PB4-02
+[2019.11.28-09.34.05:746][  0]LogInit: User: dianamartin
+[2019.11.28-09.34.05:746][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.28-09.34.05:746][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.28-09.34.05:747][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.28-09.34.05:747][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.28-09.34.05:747][  0]LogMemory: Process Physical Memory: 98.18 MB used, 98.19 MB peak
+[2019.11.28-09.34.05:747][  0]LogMemory: Process Virtual Memory: 89.66 MB used, 89.66 MB peak
+[2019.11.28-09.34.05:747][  0]LogMemory: Physical Memory: 5164.81 MB used,  11139.34 MB free, 16304.15 MB total
+[2019.11.28-09.34.05:747][  0]LogMemory: Virtual Memory: 4674.63 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.28-09.34.05:769][  0]LogInit: Using OS detected language (en-US).
+[2019.11.28-09.34.05:769][  0]LogInit: Using OS detected locale (es-ES).
+[2019.11.28-09.34.05:770][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.28-09.34.05:898][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.28-09.34.05:930][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.28-09.34.05:930][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.28-09.34.06:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.28-09.34.06:172][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.28-09.34.06:234][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.11.28-09.34.06:234][  0]LogD3D11RHI:       5980/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.28-09.34.06:236][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.28-09.34.06:236][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.28-09.34.06:236][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.28-09.34.06:241][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.28-09.34.06:241][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.28-09.34.06:241][  0]LogWindows: EnumDisplayDevices:
+[2019.11.28-09.34.06:241][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.11.28-09.34.06:241][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.28-09.34.06:241][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.28-09.34.06:241][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.28-09.34.06:242][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.28-09.34.06:242][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.11.28-09.34.06:242][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.11.28-09.34.06:242][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.11.28-09.34.06:242][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.11.28-09.34.06:283][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.28-09.34.06:286][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.28-09.34.06:286][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.28-09.34.06:286][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.28-09.34.06:293][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.28-09.34.06:578][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.28-09.34.06:592][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.28-09.34.06:605][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.28-09.34.06:619][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.28-09.34.06:633][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.28-09.34.06:646][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.28-09.34.06:659][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.28-09.34.06:673][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.28-09.34.06:680][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.28-09.34.06:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.28-09.34.06:774][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.28-09.34.06:823][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.28-09.34.06:823][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.28-09.34.06:845][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.28-09.34.06:845][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.28-09.34.06:856][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.28-09.34.06:868][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.28-09.34.06:880][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.28-09.34.06:893][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.28-09.34.06:936][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.28-09.34.06:936][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.28-09.34.06:936][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.28-09.34.06:944][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.28-09.34.07:013][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Intermediate/Shaders/WorkingDirectory/12748/).
+[2019.11.28-09.34.07:013][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/diana.martin/AppData/Local/Temp/UnrealShaderWorkingDir/1ED31A514C091E057D0E9BA839144C90/'.
+[2019.11.28-09.34.07:015][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.28-09.34.07:016][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.28-09.34.07:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.28-09.34.07:470][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/diana.martin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/diana.martin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.28-09.34.07:509][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.28-09.34.07:519][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.28-09.34.07:521][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.11.28-09.34.07:533][  0]LogDerivedDataCache: Using Local data cache path C:/Users/diana.martin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.28-09.34.07:533][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.28-09.34.07:533][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.28-09.34.07:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.28-09.34.07:550][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.28-09.34.07:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.28-09.34.07:638][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2019.11.28-09.34.07:976][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.28-09.34.08:100][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.28-09.34.08:100][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.28-09.34.08:100][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.28-09.34.08:100][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.28-09.34.08:101][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.28-09.34.08:109][  0]LogNetVersion: Platformer 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4183678404)
+[2019.11.28-09.34.08:483][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.055845 seconds
+[2019.11.28-09.34.08:488][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.28-09.34.08:488][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.28-09.34.08:488][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.28-09.34.09:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.28-09.34.09:386][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.28-09.34.09:492][  0]SourceControl: Source control is disabled
+[2019.11.28-09.34.09:492][  0]SourceControl: Source control is disabled
+[2019.11.28-09.34.09:493][  0]SourceControl: Source control is disabled
+[2019.11.28-09.34.09:495][  0]SourceControl: Source control is disabled
+[2019.11.28-09.34.09:712][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.28-09.34.09:771][  0]LogOcInput: OculusInput pre-init called
+[2019.11.28-09.34.12:540][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.11.28-09.34.12:540][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.11.28-09.34.12:541][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.11.28-09.34.12:541][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.11.28-09.34.12:669][  0]LogEngine: Initializing Engine...
+[2019.11.28-09.34.12:671][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.28-09.34.12:672][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.28-09.34.12:854][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.28-09.34.12:867][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.28-09.34.12:878][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.34.12:959][  0]LogInit: FAudioDevice initialized.
+[2019.11.28-09.34.12:959][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.28-09.34.12:999][  0]LogDerivedDataCache: Saved boot cache 0.04s 72MB C:/Users/diana.martin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.28-09.34.13:009][  0]LogInit: Texture streaming: Enabled
+[2019.11.28-09.34.13:025][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.28-09.34.13:042][  0]LogInit: Transaction tracking system initialized
+[2019.11.28-09.34.13:064][  0]BlueprintLog: New page: Editor Load
+[2019.11.28-09.34.13:166][  0]LocalizationService: Localization service is disabled
+[2019.11.28-09.34.13:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/' took 0.02s
+[2019.11.28-09.34.13:497][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.28-09.34.13:497][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.28-09.34.15:104][  0]SourceControl: Source control is disabled
+[2019.11.28-09.34.15:104][  0]Cmd: MAP LOAD FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-09.34.15:104][  0]LightingResults: New page: Lighting Build
+[2019.11.28-09.34.15:116][  0]MapCheck: New page: Map Check
+[2019.11.28-09.34.15:116][  0]LightingResults: New page: Lighting Build
+[2019.11.28-09.34.15:142][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.28-09.34.15:393][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.28-09.34.15:400][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-09.34.15:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.28-09.34.15:426][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-09.34.15:426][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,267ms to complete.
+[2019.11.28-09.34.15:426][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.322
+[2019.11.28-09.34.15:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.15:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.15:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.15:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.15:560][  0]LogCollectionManager: Loaded 0 collections in 0.001626 seconds
+[2019.11.28-09.34.15:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/Collections/' took 0.01s
+[2019.11.28-09.34.15:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/Developers/dianamartin/Collections/' took 0.01s
+[2019.11.28-09.34.15:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/Collections/' took 0.01s
+[2019.11.28-09.34.15:603][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.28-09.34.15:610][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2864 classes and 726 folders.
+[2019.11.28-09.34.15:618][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.28-09.34.15:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.28-09.34.15:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.28-09.34.15:897][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.11.28-09.34.15:908][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.28-09.34.15:911][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.28-09.34.15:919][  0]LogSlate: Took 0.003655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.28-09.34.15:995][  0]LogRenderer: Reallocating scene render targets to support 1204x620 Format 10 NumSamples 1 (Frame:1).
+[2019.11.28-09.34.16:132][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.28-09.34.16:132][  0]LogLoad: (Engine Initialization) Total time: 13.25 seconds
+[2019.11.28-09.34.16:132][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.28-09.34.16:160][  0]LogAssetRegistry: Asset discovery search completed in 8.5440 seconds
+[2019.11.28-09.34.16:162][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.28-09.34.16:162][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.11.28-09.34.16:163][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.28-09.34.16:234][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.28-09.34.18:524][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.34.18:582][279]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.34.18:592][279]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.28-09.34.18:592][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.34.18:593][279]PIE: New page: PIE session: ThirdPersonExampleMap (28/11/2019 11:34:18)
+[2019.11.28-09.34.18:605][279]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.28-09.34.18:618][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013028s)
+[2019.11.28-09.34.18:619][279]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.28-09.34.18:619][279]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2019.11.28-09.34.18:619][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014492s)
+[2019.11.28-09.34.18:643][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.28-09.34.18:652][279]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.34.18:684][279]LogInit: FAudioDevice initialized.
+[2019.11.28-09.34.18:688][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.18:732][279]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.34.18:735][279]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.28-10.34.18
+[2019.11.28-09.34.18:735][279]LogWorld: Bringing up level for play took: 0.001487
+[2019.11.28-09.34.18:753][279]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.28-09.34.18:755][279]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,353
+[2019.11.28-09.34.18:755][279]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.28-09.34.18:781][280]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.11.28-09.34.22:915][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.28-09.34.22:916][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.22:926][776]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.34.22:958][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.34.22:958][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.28-09.34.22:987][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.11.28-09.34.23:017][778]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.28-09.34.29:229][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.11.28-09.34.29:230][518]Cmd: MAP LOAD FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/Platformer/Maps/Platformer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-09.34.29:232][518]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.28-09.34.29:239][518]LightingResults: New page: Lighting Build
+[2019.11.28-09.34.29:240][518]LoadErrors: New page: Loading map: Platformer.umap
+[2019.11.28-09.34.29:241][518]MapCheck: New page: Map Check
+[2019.11.28-09.34.29:241][518]LightingResults: New page: Lighting Build
+[2019.11.28-09.34.29:265][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.28-09.34.29:574][518]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.34.29:587][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-09.34.29:613][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.11.28-09.34.29:636][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-09.34.29:637][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,269ms to complete.
+[2019.11.28-09.34.29:637][518]LogFileHelpers: Loading map 'Platformer' took 0.408
+[2019.11.28-09.34.29:637][518]LogSlate: Window 'Open Level' being destroyed
+[2019.11.28-09.34.29:997][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.34.30:008][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.30:008][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.34.30:008][559]PIE: New page: PIE session: Platformer (28/11/2019 11:34:30)
+[2019.11.28-09.34.30:009][559]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.34.30:015][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005703s)
+[2019.11.28-09.34.30:015][559]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.34.30:016][559]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2019.11.28-09.34.30:016][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006856s)
+[2019.11.28-09.34.30:039][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.28-09.34.30:048][559]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.34.30:080][559]LogInit: FAudioDevice initialized.
+[2019.11.28-09.34.30:085][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.30:115][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.34.30:119][559]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.34.30
+[2019.11.28-09.34.30:119][559]LogWorld: Bringing up level for play took: 0.002745
+[2019.11.28-09.34.30:134][559]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 1,027
+[2019.11.28-09.34.30:134][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.32:489][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.32:490][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.32:501][840]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.34.32:533][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.34.32:533][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.32:563][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.28-09.34.32:597][844]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.28-09.34.34:995][131]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.28-09.34.35:190][131]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.28-09.34.35:836][131]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.28-09.34.35:939][132]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.28-09.34.44:143][997]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.28-09.34.44:285][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.28-09.34.44:706][ 30]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/ThirdPersonCharacterE60D4ABA46110BACA9DE8EAC78DC86A6.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.28-09.34.45:367][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.34.45:381][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.45:381][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.34.45:381][106]PIE: New page: PIE session: Platformer (28/11/2019 11:34:45)
+[2019.11.28-09.34.45:381][106]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.34.45:387][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005876s)
+[2019.11.28-09.34.45:388][106]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.34.45:388][106]LogPlayLevel: PIE: World Init took: (0.000421s)
+[2019.11.28-09.34.45:388][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006392s)
+[2019.11.28-09.34.45:418][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.28-09.34.45:427][106]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.34.45:458][106]LogInit: FAudioDevice initialized.
+[2019.11.28-09.34.45:462][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.45:490][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.34.45:493][106]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.34.45
+[2019.11.28-09.34.45:494][106]LogWorld: Bringing up level for play took: 0.002455
+[2019.11.28-09.34.45:508][106]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 0,401
+[2019.11.28-09.34.45:508][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.50:998][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.50:998][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.34.51:009][708]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.34.51:042][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.34.51:042][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.34.51:077][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.28-09.34.51:101][710]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.28-09.34.56:548][193]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.28-09.34.59:053][490]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/deadBody.deadBody
+[2019.11.28-09.35.00:765][650]LogRenderer: Reallocating scene render targets to support 1272x712 Format 10 NumSamples 1 (Frame:162).
+[2019.11.28-09.35.06:307][302]BlueprintLog: New page: Compile deadBody
+[2019.11.28-09.35.06:434][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.28-09.35.06:888][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/deadBody" FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/deadBody.uasset" SILENT=true
+[2019.11.28-09.35.06:908][350]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/deadBodyDBFEBD85413ABB42196B2D93778109FC.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/deadBody.uasset'
+[2019.11.28-09.35.10:107][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.35.10:140][732]BlueprintLog: New page: Compile deadBody
+[2019.11.28-09.35.10:270][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.28-09.35.11:129][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/deadBody" FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/deadBody.uasset" SILENT=true
+[2019.11.28-09.35.11:155][829]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/deadBodyE727B57545BB02A4A99EE28D8487D8D7.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/deadBody.uasset'
+[2019.11.28-09.35.13:621][113]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.28-09.35.17:538][570]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.28-09.35.17:679][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.28-09.35.18:050][600]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/ThirdPersonCharacterADAD7522432A895E376544A1FEAC17CE.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.28-09.35.18:704][676]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.35.18:724][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.18:724][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.35.18:724][676]PIE: New page: PIE session: Platformer (28/11/2019 11:35:18)
+[2019.11.28-09.35.18:724][676]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.35.18:730][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005937s)
+[2019.11.28-09.35.18:730][676]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.35.18:730][676]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2019.11.28-09.35.18:730][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006439s)
+[2019.11.28-09.35.18:757][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.28-09.35.18:766][676]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.35.18:798][676]LogInit: FAudioDevice initialized.
+[2019.11.28-09.35.18:802][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.18:833][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.35.18:836][676]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.35.18
+[2019.11.28-09.35.18:836][676]LogWorld: Bringing up level for play took: 0.002449
+[2019.11.28-09.35.18:850][676]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer -0,257
+[2019.11.28-09.35.18:851][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.23:493][228]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=3.67 Y=16.67 Z=0.00 Location: X=599.14 Y=662.40 Z=-94.04 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:60.687 Actor:deadBody_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2019.11.28-09.35.24:153][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.24:153][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.24:164][307]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.35.24:194][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.35.24:194][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.24:229][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.28-09.35.24:254][309]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.28-09.35.35:136][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.35.35:151][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.35:151][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.35.35:152][596]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.11.28-09.35.35:302][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.28-09.35.35:302][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2019.11.28-09.35.35:302][596]PIE: New page: PIE session: Platformer (28/11/2019 11:35:35)
+[2019.11.28-09.35.35:302][596]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.35.35:308][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005700s)
+[2019.11.28-09.35.35:308][596]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.35.35:309][596]LogPlayLevel: PIE: World Init took: (0.000410s)
+[2019.11.28-09.35.35:309][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006200s)
+[2019.11.28-09.35.35:335][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.28-09.35.35:344][596]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.35.35:375][596]LogInit: FAudioDevice initialized.
+[2019.11.28-09.35.35:379][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.35:411][596]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.35.35:414][596]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.35.35
+[2019.11.28-09.35.35:414][596]LogWorld: Bringing up level for play took: 0.002431
+[2019.11.28-09.35.35:429][596]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 0,321
+[2019.11.28-09.35.35:429][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.44:874][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.44:874][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.44:886][722]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.35.44:920][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.35.44:920][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.44:959][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.28-09.35.44:976][723]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.28-09.35.49:228][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.35.49:244][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.49:244][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.35.49:245][233]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.11.28-09.35.49:395][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.11.28-09.35.49:395][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2019.11.28-09.35.49:395][233]PIE: New page: PIE session: Platformer (28/11/2019 11:35:49)
+[2019.11.28-09.35.49:395][233]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.35.49:401][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005920s)
+[2019.11.28-09.35.49:401][233]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.35.49:401][233]LogPlayLevel: PIE: World Init took: (0.000378s)
+[2019.11.28-09.35.49:401][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006386s)
+[2019.11.28-09.35.49:431][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.28-09.35.49:440][233]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.35.49:471][233]LogInit: FAudioDevice initialized.
+[2019.11.28-09.35.49:476][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.49:507][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.35.49:510][233]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.35.49
+[2019.11.28-09.35.49:511][233]LogWorld: Bringing up level for play took: 0.002247
+[2019.11.28-09.35.49:524][233]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 0,416
+[2019.11.28-09.35.49:525][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.57:205][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.57:205][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.35.57:216][148]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.35.57:249][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.35.57:249][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.35.57:279][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.28-09.35.57:304][150]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.28-09.36.18:643][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.36.37:112][742]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.28-09.36.51:358][434]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WaterTrigger.WaterTrigger
+[2019.11.28-09.37.04:722][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.37.04:805][942]BlueprintLog: New page: Compile WaterTrigger
+[2019.11.28-09.37.04:946][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.28-09.37.05:420][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterTrigger" FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/WaterTrigger.uasset" SILENT=true
+[2019.11.28-09.37.05:434][994]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/WaterTrigger2965853049281167CC6F9EADF5CB513E.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/WaterTrigger.uasset'
+[2019.11.28-09.37.19:965][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.37.55:472][650]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.28-09.37.55:632][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.28-09.37.56:048][680]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/ThirdPersonCharacterB31715ED49D2B5E0CA0BDC84F843BA14.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.28-09.38.06:316][877]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.38.06:335][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.06:335][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.38.06:335][877]LogPlayLevel: [PlayLevel] Compiling WaterTrigger before play...
+[2019.11.28-09.38.06:479][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.28-09.38.06:479][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2019.11.28-09.38.06:480][877]PIE: New page: PIE session: Platformer (28/11/2019 11:38:06)
+[2019.11.28-09.38.06:480][877]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.38.06:486][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005736s)
+[2019.11.28-09.38.06:486][877]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.38.06:486][877]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.11.28-09.38.06:486][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006272s)
+[2019.11.28-09.38.06:513][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.28-09.38.06:524][877]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.38.06:555][877]LogInit: FAudioDevice initialized.
+[2019.11.28-09.38.06:560][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.38.06:587][877]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.38.06:590][877]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.38.06
+[2019.11.28-09.38.06:590][877]LogWorld: Bringing up level for play took: 0.002864
+[2019.11.28-09.38.06:605][877]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer -0,505
+[2019.11.28-09.38.06:605][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.10:854][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.10:854][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.38.10:870][384]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.38.10:899][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.38.10:899][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.10:939][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.28-09.38.10:957][385]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.28-09.38.19:755][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2019.11.28-09.38.20:395][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2019.11.28-09.38.20:892][469]LogEditorViewport: Clicking on Actor (LMB): WaterTrigger_C (WaterTrigger)
+[2019.11.28-09.38.23:335][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-09.38.23:419][768]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.38.23:436][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.23:436][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.38.23:436][768]PIE: New page: PIE session: Platformer (28/11/2019 11:38:23)
+[2019.11.28-09.38.23:436][768]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.38.23:442][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005824s)
+[2019.11.28-09.38.23:442][768]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.38.23:442][768]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2019.11.28-09.38.23:443][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006319s)
+[2019.11.28-09.38.23:474][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.28-09.38.23:483][768]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.38.23:514][768]LogInit: FAudioDevice initialized.
+[2019.11.28-09.38.23:518][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.38.23:547][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.38.23:550][768]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.38.23
+[2019.11.28-09.38.23:550][768]LogWorld: Bringing up level for play took: 0.002616
+[2019.11.28-09.38.23:565][768]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 0,455
+[2019.11.28-09.38.23:565][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.26:365][101]LogBlueprintUserMessages: [WaterTrigger_2] X=1382.294 Y=121.648 Z=-602.000
+[2019.11.28-09.38.29:715][503]LogBlueprintUserMessages: [WaterTrigger_2] X=1457.408 Y=137.864 Z=-602.000
+[2019.11.28-09.38.31:341][698]LogBlueprintUserMessages: [WaterTrigger_2] X=1173.857 Y=-496.784 Z=-602.000
+[2019.11.28-09.38.32:784][871]LogBlueprintUserMessages: [WaterTrigger_2] X=1013.616 Y=-605.078 Z=-602.000
+[2019.11.28-09.38.33:527][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.33:527][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.38.33:537][960]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.38.33:569][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.38.33:569][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.33:609][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.28-09.38.33:630][961]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.28-09.38.52:796][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.38.52:811][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.52:812][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.38.52:812][233]LogPlayLevel: [PlayLevel] Compiling WaterTrigger before play...
+[2019.11.28-09.38.52:951][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.11.28-09.38.52:951][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2019.11.28-09.38.52:951][233]PIE: New page: PIE session: Platformer (28/11/2019 11:38:52)
+[2019.11.28-09.38.52:951][233]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.38.52:957][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005532s)
+[2019.11.28-09.38.52:957][233]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.38.52:957][233]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2019.11.28-09.38.52:957][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006022s)
+[2019.11.28-09.38.52:984][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.28-09.38.52:992][233]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.38.53:023][233]LogInit: FAudioDevice initialized.
+[2019.11.28-09.38.53:027][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.38.53:059][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.38.53:063][233]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.38.53
+[2019.11.28-09.38.53:063][233]LogWorld: Bringing up level for play took: 0.002677
+[2019.11.28-09.38.53:078][233]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer -0,032
+[2019.11.28-09.38.53:078][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.38.55:614][533]LogBlueprintUserMessages: [WaterTrigger_2] X=1405.485 Y=-74.403 Z=-602.000
+[2019.11.28-09.39.01:337][217]LogBlueprintUserMessages: [WaterTrigger_2] X=1204.415 Y=-770.269 Z=-602.000
+[2019.11.28-09.39.05:116][667]LogBlueprintUserMessages: [WaterTrigger_2] X=1269.545 Y=-1472.000 Z=-711.850
+[2019.11.28-09.39.06:203][797]LogBlueprintUserMessages: [WaterTrigger_2] X=1751.652 Y=-1030.616 Z=-602.000
+[2019.11.28-09.39.07:712][978]Set new viewmode: Wireframe
+[2019.11.28-09.39.13:345][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.13:345][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.39.13:356][653]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.39.13:385][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.39.13:385][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.13:427][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.28-09.39.13:446][654]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.28-09.39.14:538][785]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.39.14:556][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.14:556][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-09.39.14:556][785]PIE: New page: PIE session: Platformer (28/11/2019 11:39:14)
+[2019.11.28-09.39.14:556][785]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.39.14:562][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005801s)
+[2019.11.28-09.39.14:562][785]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.39.14:562][785]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2019.11.28-09.39.14:562][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006285s)
+[2019.11.28-09.39.14:590][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.28-09.39.14:599][785]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.39.14:630][785]LogInit: FAudioDevice initialized.
+[2019.11.28-09.39.14:633][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.39.14:663][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.39.14:666][785]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.39.14
+[2019.11.28-09.39.14:666][785]LogWorld: Bringing up level for play took: 0.002253
+[2019.11.28-09.39.14:681][785]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer -0,429
+[2019.11.28-09.39.14:681][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.17:215][ 83]LogBlueprintUserMessages: [WaterTrigger_2] X=1359.321 Y=287.686 Z=-602.000
+[2019.11.28-09.39.27:685][337]LogBlueprintUserMessages: [WaterTrigger_2] X=1288.418 Y=152.616 Z=-602.000
+[2019.11.28-09.39.29:354][537]LogBlueprintUserMessages: [WaterTrigger_2] X=1541.337 Y=-334.791 Z=-602.000
+[2019.11.28-09.39.31:280][768]Set new viewmode: Wireframe
+[2019.11.28-09.39.42:396][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.42:396][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.39.42:407][100]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.39.42:440][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.39.42:440][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.42:478][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.28-09.39.42:504][101]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.28-09.39.54:966][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.39.54:982][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.54:982][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.39.54:982][579]LogPlayLevel: [PlayLevel] Compiling WaterTrigger before play...
+[2019.11.28-09.39.55:124][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.28-09.39.55:124][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2019.11.28-09.39.55:124][579]PIE: New page: PIE session: Platformer (28/11/2019 11:39:55)
+[2019.11.28-09.39.55:124][579]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.39.55:130][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005737s)
+[2019.11.28-09.39.55:130][579]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.39.55:130][579]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2019.11.28-09.39.55:131][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006233s)
+[2019.11.28-09.39.55:161][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.28-09.39.55:169][579]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.39.55:201][579]LogInit: FAudioDevice initialized.
+[2019.11.28-09.39.55:206][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.39.55:235][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.39.55:238][579]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.39.55
+[2019.11.28-09.39.55:239][579]LogWorld: Bringing up level for play took: 0.002302
+[2019.11.28-09.39.55:253][579]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer 0,142
+[2019.11.28-09.39.55:253][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.39.57:431][837]LogBlueprintUserMessages: [WaterTrigger_2] X=1417.256 Y=-63.502 Z=-602.000
+[2019.11.28-09.39.59:898][133]LogBlueprintUserMessages: [WaterTrigger_2] X=1741.522 Y=-29.166 Z=-602.000
+[2019.11.28-09.40.02:347][426]LogBlueprintUserMessages: [WaterTrigger_2] X=2042.056 Y=-43.721 Z=-602.000
+[2019.11.28-09.40.05:240][773]LogBlueprintUserMessages: [WaterTrigger_2] X=1908.108 Y=-777.846 Z=-602.000
+[2019.11.28-09.40.05:916][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.05:916][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.40.05:927][854]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.40.05:958][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.40.05:958][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.05:994][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.28-09.40.06:020][856]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.28-09.40.14:486][862]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.28-09.40.14:506][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.14:506][862]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.28-09.40.14:506][862]LogPlayLevel: [PlayLevel] Compiling WaterTrigger before play...
+[2019.11.28-09.40.14:647][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.11.28-09.40.14:647][862]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2019.11.28-09.40.14:647][862]PIE: New page: PIE session: Platformer (28/11/2019 11:40:14)
+[2019.11.28-09.40.14:647][862]LogPlayLevel: Creating play world package: /Game/Platformer/Maps/UEDPIE_0_Platformer
+[2019.11.28-09.40.14:653][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006169s)
+[2019.11.28-09.40.14:654][862]LogAIModule: Creating AISystem for world Platformer
+[2019.11.28-09.40.14:654][862]LogPlayLevel: PIE: World Init took: (0.000405s)
+[2019.11.28-09.40.14:654][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Maps/Platformer.Platformer to /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer (0.006667s)
+[2019.11.28-09.40.14:686][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.28-09.40.14:694][862]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-09.40.14:725][862]LogInit: FAudioDevice initialized.
+[2019.11.28-09.40.14:729][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.40.14:759][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.28-09.40.14:763][862]LogWorld: Bringing World /Game/Platformer/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2019.11.28-10.40.14
+[2019.11.28-09.40.14:763][862]LogWorld: Bringing up level for play took: 0.002502
+[2019.11.28-09.40.14:778][862]PIE: Play in editor start time for /Game/Platformer/Maps/UEDPIE_0_Platformer -0,333
+[2019.11.28-09.40.14:778][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.17:331][165]LogBlueprintUserMessages: [WaterTrigger_2] X=1111.911 Y=93.074 Z=-602.000
+[2019.11.28-09.40.18:198][269]LogBlueprintUserMessages: [WaterTrigger_2] X=1192.289 Y=53.287 Z=-602.000
+[2019.11.28-09.40.18:366][289]LogBlueprintUserMessages: [WaterTrigger_2] X=1255.252 Y=-23.467 Z=-602.000
+[2019.11.28-09.40.20:541][550]LogBlueprintUserMessages: [WaterTrigger_2] X=1499.714 Y=-151.585 Z=-602.000
+[2019.11.28-09.40.22:402][773]LogBlueprintUserMessages: [WaterTrigger_2] X=1817.343 Y=-280.799 Z=-602.000
+[2019.11.28-09.40.23:003][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.23:003][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-09.40.23:014][845]LogSlate: Window 'Platformer Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.28-09.40.23:044][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-09.40.23:044][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/Platformer/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/Platformer/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2019.11.28-09.40.23:083][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.28-09.40.23:110][847]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.28-09.41.16:379][230]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.28-09.41.17:957][412]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.11.28-09.41.17:961][412]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.28-09.41.34:100][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.DeadTrigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.SKEL_DeadTrigger_C' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.DeadTrigger_C' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.DeadTrigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.DeadTrigger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:101][324]LogMetaData: Removing '/Game/DeadTrigger.DeadTrigger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/WaterTrigger.PackageMetaData'
+[2019.11.28-09.41.34:112][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DeadTrigger" FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/DeadTrigger.uasset" SILENT=true
+[2019.11.28-09.41.34:140][324]LogSavePackage: Moving '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Saved/DeadTriggerFA58CE134D7627C173188195DC7AF99A.tmp' to '../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/DeadTrigger.uasset'
+[2019.11.28-09.41.34:319][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.28-09.41.34:348][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.28-09.41.34:374][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.28-09.41.39:443][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/deadBody" FILE="../../../../../../Users/diana.martin/Google Drive/2n CFGS/UnrealCarlos/Platformer/Content/deadBody.uasset" SILENT=true
+[2019.11.28-09.41.39:458][926]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.28-09.41.40:814][926]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.355 s
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: 
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: Found circular redirect from /Game/deadBody.deadBody to /Game/DeadBody.DeadBody! Returning None instead
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: Stack: 
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8918c2690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff891594d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff89181c2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8918274c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8915c9017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8915606c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff891827113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8916d533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917e7d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917e80a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8916d736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8916d5412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917e7d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff89178dced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917e80a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8916d736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff89178e3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff89178c9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff89178c6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88e660125 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88e65fc5c UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917cc315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917eb619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8917d3f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88c9f9ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88c9fa757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88ca2fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88ca2c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88d1bf0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88cd6da24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88cd6c599 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88cd800b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87e6bb1b3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87e67ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87e6ca9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87d512fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87d576f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87d5bdda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87d4f0e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff87d4d3d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88df0b61a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88dedee59 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88df3c69d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88df3d93d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88de700bd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88dcc1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88dd28dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff88dd1f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8d591b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8d590ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8d591d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8d590c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8ec0eca66 USER32.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8ec0ec582 USER32.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8d591e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff6b9985d3e UE4Editor.exe!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff6b999554c UE4Editor.exe!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff6b99955ca UE4Editor.exe!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff6b99a316c UE4Editor.exe!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff6b99a5b8e UE4Editor.exe!UnknownFunction []
+[2019.11.28-09.41.40:814][926]LogOutputDevice: Error: [Callstack] 0x00007ff8ee5a7974 KERNEL32.DLL!UnknownFunction []
+[2019.11.28-09.41.40:815][926]LogOutputDevice: Error: [Callstack] 0x00007ff8eef1a271 ntdll.dll!UnknownFunction []
+[2019.11.28-09.41.40:815][926]LogOutputDevice: Error: 
+[2019.11.28-09.41.40:819][926]LogStats:                SubmitErrorReport -  0.000 s
