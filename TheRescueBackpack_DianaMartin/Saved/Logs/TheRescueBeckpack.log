@@ -1293,3 +1293,915 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.16-08.48.55:152][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2020.01.16-08.48.55:516][259]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer21C484A84AECAD431EDB2EB85A52EAB2.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
 [2020.01.16-08.48.55:691][259]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltData3240943C4218495A07CB8EB992DF9C8B.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-08.58.55:244][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.16-08.58.55:244][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Platformer' took 0.028
+[2020.01.16-08.58.55:246][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:253][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic.8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:253][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:270][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_Oc4D4E8D45428C03F924882B8DE667FDA0.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:272][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:278][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_BaseColor.16m_Cube_PL_16m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:278][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:304][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_BaseColoAA00D7484A19FFF4B7ECB28426537333.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:305][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:312][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_Normal.16m_Cube_PL_16m_Cube_PL_Normal]
+[2020.01.16-08.58.55:312][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_Normal]
+[2020.01.16-08.58.55:328][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_Normal_A69CBCC6B4883F2FD9697A2821C192225.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:329][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:335][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic.16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:335][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:348][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_Occlusio75BB905449652D4C12079991A3DF7BCA.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:350][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:357][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_Normal.8m_Cylinder_PL_8m_Cylinder_PL_Normal]
+[2020.01.16-08.58.55:357][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_Normal]
+[2020.01.16-08.58.55:374][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_No325A38F345EA8D3A8563979495A545A6.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:375][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:382][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_BaseColor.SM_16m_Platform_lambert1_BaseColor]
+[2020.01.16-08.58.55:382][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_BaseColor]
+[2020.01.16-08.58.55:398][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/SM_16m_Platform_lambert1_BaseCol455174044A4ED6F9F51DAD83B8A981B9.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:400][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:407][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_Normal.SM_16m_Platform_lambert1_Normal]
+[2020.01.16-08.58.55:407][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_Normal]
+[2020.01.16-08.58.55:423][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/SM_16m_Platform_lambert1_Normal_D81B14424F28C45D1A0580B74EB52D4D.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:425][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:432][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_OcclusionRoughnessMetallic.SM_16m_Platform_lambert1_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:432][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:448][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/SM_16m_Platform_lambert1_Occlusi2EACA61C49CA4EB4038D94A496E32ADE.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/16m_Cube_Platform/SM_16m_Platform_lambert1_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:449][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:456][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_BaseColor.8m_Cylinder_PL_8m_Cylinder_PL_BaseColor]
+[2020.01.16-08.58.55:456][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_BaseColor]
+[2020.01.16-08.58.55:473][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_Ba26B151A64C9C4AAE439980A121EB6957.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:475][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:482][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_BaseColor.4m_Cube_PL_4m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:482][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:498][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_BaseColor_65B950334187B5C8398C158559EA82DF.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:500][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:506][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_Normal.4m_Cube_PL_4m_Cube_PL_Normal]
+[2020.01.16-08.58.55:506][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_Normal]
+[2020.01.16-08.58.55:523][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_Normal_Aut4541BF3F40CDE3818F9F99BE53FC9A2F.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:525][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:531][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic.4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:531][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:545][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_OcclusionR27492C2A4E3601C6372250A9426D8802.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:547][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:553][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic.8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:553][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:566][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_OcclusionR788813824FC858B7B7A3EB844E9715CD.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:568][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:575][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor.4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor]
+[2020.01.16-08.58.55:575][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor]
+[2020.01.16-08.58.55:591][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_Smal25EDBC374252D2D5C63520B7C30CB52A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:593][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:600][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_Normal.4m_Cube_PL_Small_4m_Cube_PL_Small_Normal]
+[2020.01.16-08.58.55:600][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_Normal]
+[2020.01.16-08.58.55:619][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_Smal85EA6D584711582DDE82A5B581FB6D8D.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:621][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.01.16-08.58.55:627][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic.4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:627][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic]
+[2020.01.16-08.58.55:709][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_SmalFC7E939849413853E0CCC3BD885A5F6C.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic_Auto2.uasset'
+[2020.01.16-08.58.55:711][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_Normal] ([1] browsable assets)...
+[2020.01.16-08.58.55:717][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_Normal.8m_Cube_PL_8m_Cube_PL_Normal]
+[2020.01.16-08.58.55:718][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_Normal]
+[2020.01.16-08.58.55:787][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_Normal_Aut73EF003E45EA27676C5AA2A98F0FAE96.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_Normal_Auto2.uasset'
+[2020.01.16-08.58.55:789][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_BaseColor] ([1] browsable assets)...
+[2020.01.16-08.58.55:795][620]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_BaseColor.8m_Cube_PL_8m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:795][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_BaseColor]
+[2020.01.16-08.58.55:812][620]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_BaseColor_CC4F6F5E41D566A3827F41A441AC6464.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Autosaves/Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_BaseColor_Auto2.uasset'
+[2020.01.16-08.58.55:814][620]LogFileHelpers: Auto-saving content packages took 0.569
+[2020.01.16-08.59.06:707][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\diana.martin\Google Drive\2n CFGS\VerticalUnreal\images\Triangle_Platform/Triangle_PL_Triangle_Platform_BaseColor.tga)
+[2020.01.16-08.59.06:755][657]LogTexture: Display: Building textures: Triangle_PL_Triangle_Platform_BaseColor (AutoDXT, 2048X2048)
+[2020.01.16-08.59.07:449][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\diana.martin\Google Drive\2n CFGS\VerticalUnreal\images\Triangle_Platform/Triangle_PL_Triangle_Platform_Normal.tga)
+[2020.01.16-08.59.07:510][657]LogTexture: Display: Building textures: Triangle_PL_Triangle_Platform_Normal (BC5, 2048X2048)
+[2020.01.16-08.59.07:685][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\diana.martin\Google Drive\2n CFGS\VerticalUnreal\images\Triangle_Platform/Triangle_PL_Triangle_Platform_OcclusionRoughnessMetallic.tga)
+[2020.01.16-08.59.07:729][657]LogTexture: Display: Building textures: Triangle_PL_Triangle_Platform_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.01.16-08.59.07:864][657]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:\Users\diana.martin\Google Drive\2n CFGS\VerticalUnreal\images\Triangle_Platform/Unreal Engine 4.json)
+[2020.01.16-08.59.07:866][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-08.59.09:363][657]LogSlate: Window 'DataTable Options' being destroyed
+[2020.01.16-08.59.23:386][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.16-08.59.25:731][311]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.16-08.59.25:803][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.01.16-08.59.48:759][ 46]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_Mat, compiling. 
+[2020.01.16-08.59.48:968][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.01.16-08.59.50:571][ 66]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.16-08.59.57:149][848]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_M9DDDC33F4725EF06E80898A8B79161E6.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_M.uasset'
+[2020.01.16-08.59.57:285][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.16-08.59.57:310][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.16-08.59.57:336][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.16-08.59.58:537][987]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_M.16m_Cube_PL_M
+[2020.01.16-08.59.58:542][987]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-08.59.58:635][987]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-08.59.58:648][987]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-08.59.58:663][987]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-08.59.58:688][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-08.59.59:144][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-08.59.59:807][ 50]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-08.59.59:807][ 50]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-08.59.59:808][ 50]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-08.59.59:808][ 50]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-08.59.59:808][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-08.59.59:808][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.00.00:685][148]LogSlate: Window '16m_Cube_PL_M' being destroyed
+[2020.01.16-09.00.04:807][626]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.04:818][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.00.04:836][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.04:848][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.00.04:853][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.00.04:867][626]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.04:882][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.00.04:917][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.00.04:925][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.00.04:932][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.00.05:090][639]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.05:588][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.00.06:227][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.00.21:000][539]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.21:015][539]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.21:018][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.00.21:316][567]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.23:210][790]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.23:227][790]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.23:227][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.00.23:497][819]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.25:873][ 99]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.25:885][ 99]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.25:888][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.00.26:148][126]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.00.26:943][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.00.27:322][265]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.27:346][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.27:587][295]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.28:836][442]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.28:850][443]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.29:117][474]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.00.30:561][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.00.31:952][813]LogMaterialEditor: Saving and Compiling material 16m_Cube_PL_M
+[2020.01.16-09.00.33:311][813]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.33:355][813]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.00.33:355][813]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.33:369][813]LogMaterial: Display: Missing cached shader map for material 16m_Cube_PL_M, compiling. 
+[2020.01.16-09.00.33:411][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.01.16-09.00.33:422][813]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.00.34:199][813]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.00.34:201][813]TextureStreamingBuild: Display: Compiling optional shaders took 0.790 seconds.
+[2020.01.16-09.00.34:237][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.01.16-09.00.36:156][813]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_M3DF12F124B644D338A6A9AA000299F1B.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_M.uasset'
+[2020.01.16-09.00.38:723][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (16m_Cube_PL)
+[2020.01.16-09.00.40:455][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.00.42:243][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (16m_Cube_PL2)
+[2020.01.16-09.00.43:005][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.00.46:679][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.16-09.00.47:583][ 47]LogSlate: Window 'Save Content' being destroyed
+[2020.01.16-09.00.48:048][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_BaseColo270D9E2A44E53AEA6230CFAC9FB8E9D5.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_BaseColor.uasset'
+[2020.01.16-09.00.48:441][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_NormalF16479FA4CDC78A8214574891E5ED04B.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_Normal.uasset'
+[2020.01.16-09.00.48:556][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PL_16m_Cube_PL_Occlusio004CE18E40CE89099E1F2C944741BF69.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/16m_Cube_Platform/16m_Cube_PL_16m_Cube_PL_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.48:936][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_BaseColor75B75DC846B098974BD607A75CFC7834.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_BaseColor.uasset'
+[2020.01.16-09.00.49:331][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_NormalD7543B8C4B23601DE759B8AA892C936A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_Normal.uasset'
+[2020.01.16-09.00.49:465][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_4m_Cube_PL_OcclusionR0186B26B42780164D782BA986A5E2D71.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_4m_Cube_PL_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.49:862][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_SmalACA3AED040D9D941392BDA9E3292D208.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_BaseColor.uasset'
+[2020.01.16-09.00.50:254][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_Smal17D5177E48BDFE3AF962868DC84FBCEF.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_Normal.uasset'
+[2020.01.16-09.00.50:385][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_SmalF00746B84861F99BA47E6A98294739B8.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_Small_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.50:791][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_BaseColor4ABBB05E4D66EF732D12E48472540D34.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_BaseColor.uasset'
+[2020.01.16-09.00.51:187][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_Normal218EE5F24A97D529E45B93A92A29530A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_Normal.uasset'
+[2020.01.16-09.00.51:317][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_OcclusionR3B39D8B441E59A30709FBFB8661C8B50.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.51:683][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_Ba29380A02413F576974F153BBA9F00EC8.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_BaseColor.uasset'
+[2020.01.16-09.00.52:074][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_NoBEE7AFE84831417348A5EEA73CF0CE30.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_Normal.uasset'
+[2020.01.16-09.00.52:207][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_OcE15A41294872AECB30B9CF97EEB94371.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.52:624][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Triangle_PL_Triangle_Platform_Ba90C8B22541712BFAEF31488425A862B4.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/Triangle_Platform/Triangle_PL_Triangle_Platform_BaseColor.uasset'
+[2020.01.16-09.00.53:021][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Triangle_PL_Triangle_Platform_No9A2F29AF4D3D68A8AF0823BBA25AACDA.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/Triangle_Platform/Triangle_PL_Triangle_Platform_Normal.uasset'
+[2020.01.16-09.00.53:141][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Triangle_PL_Triangle_Platform_Oc5FC769594F13B41F1164B3A20689792A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/Triangle_Platform/Triangle_PL_Triangle_Platform_OcclusionRoughnessMetallic.uasset'
+[2020.01.16-09.00.53:179][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.16-09.00.53:509][ 47]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/PlatformerCC1608704C105B5FBF5DAE99CD596195.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.00.53:541][ 47]LogFileHelpers: Saving map 'Platformer' took 0.395
+[2020.01.16-09.00.59:134][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.01.10:345][996]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.13:695][389]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_M.4m_Cube_PL_M
+[2020.01.16-09.01.13:698][389]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.13:761][389]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.13:773][389]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.13:799][389]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.13:812][389]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.01.14:284][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.01.14:899][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.01.19:207][  8]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.19:227][  9]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.19:510][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.20:977][217]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.20:994][219]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.21:250][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.01.22:015][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.01.25:588][754]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.25:599][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.01.25:615][754]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.25:628][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.01.25:633][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.01.25:646][754]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.25:660][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.01.25:698][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.01.25:704][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.01.25:712][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.01.25:877][768]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.26:381][824]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.01.27:601][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.01.30:515][317]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.30:532][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.01.30:546][317]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.30:811][347]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.32:283][519]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.32:299][519]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.01.32:314][519]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.32:577][549]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.33:948][710]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.33:965][710]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.33:965][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.01.34:245][739]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.01.35:117][838]LogMaterialEditor: Saving and Compiling material 4m_Cube_PL_M
+[2020.01.16-09.01.35:446][838]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.35:489][838]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.01.35:489][838]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.35:519][838]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_M, compiling. 
+[2020.01.16-09.01.35:570][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.16-09.01.35:579][838]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.01.36:353][838]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.01.36:355][838]TextureStreamingBuild: Display: Compiling optional shaders took 0.785 seconds.
+[2020.01.16-09.01.36:383][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.16-09.01.38:179][838]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_MF38B923442E9401CC82D9A9497D32A04.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_Platform/4m_Cube_PL_M.uasset'
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.01.38:196][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.01.49:519][176]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/16m_Cube_PL.16m_Cube_PL
+[2020.01.16-09.01.53:984][640]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/16m_Cube_PLDDEC5D744417978EF65371A677D7EFC9.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/16m_Cube_PL.uasset'
+[2020.01.16-09.01.56:561][944]LogSlate: Window '16m_Cube_PL' being destroyed
+[2020.01.16-09.02.07:273][211]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/4m_Cube_PL.4m_Cube_PL
+[2020.01.16-09.02.09:807][485]LogSlate: Window '4m_Cube_PL' being destroyed
+[2020.01.16-09.02.12:517][796]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/4m_Cube_PL_Small.4m_Cube_PL_Small
+[2020.01.16-09.02.17:275][312]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small2FB4D4C9494F9FB467F8DCADCCB581AE.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/4m_Cube_PL_Small.uasset'
+[2020.01.16-09.02.17:911][384]LogSlate: Window '4m_Cube_PL_Small' being destroyed
+[2020.01.16-09.02.32:735][142]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.35:827][506]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_M.4m_Cube_PL_Small_4m_Cube_PL_M
+[2020.01.16-09.02.35:829][506]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.35:871][506]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.35:884][506]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.35:905][506]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.35:918][506]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.02.36:368][530]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.02.37:115][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.02.38:270][717]LogSlate: Window '4m_Cube_PL_Small_4m_Cube_PL_M' being destroyed
+[2020.01.16-09.02.42:480][205]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.42:492][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.02.42:497][205]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.42:522][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.02.42:528][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.02.42:544][205]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.42:558][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.02.42:592][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.02.42:599][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.02.42:605][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.02.42:774][220]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.43:257][275]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.02.44:201][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.02.52:055][326]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.52:078][327]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.52:336][358]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.54:111][568]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.54:136][571]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.54:402][601]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.02.55:162][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.02.56:098][803]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.56:111][803]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.56:111][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.02.56:373][831]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.57:515][965]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.57:533][965]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.57:533][965]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.02.57:808][995]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.02.59:070][143]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.02.59:085][143]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.02.59:088][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.02.59:370][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.03.00:140][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.00:305][283]LogMaterialEditor: Saving and Compiling material 4m_Cube_PL_Small_4m_Cube_PL_M
+[2020.01.16-09.03.00:655][283]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.00:698][283]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.00:698][283]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.00:733][283]LogMaterial: Display: Missing cached shader map for material 4m_Cube_PL_Small_4m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.00:786][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.16-09.03.00:796][283]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.03.01:562][283]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.03.01:563][283]TextureStreamingBuild: Display: Compiling optional shaders took 0.776 seconds.
+[2020.01.16-09.03.01:597][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.16-09.03.03:419][283]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL_Small_4m_Cube_PL_MACD610274FF97E2617A85792D784E03C.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/4m_Cube_S_Platform/4m_Cube_PL_Small_4m_Cube_PL_M.uasset'
+[2020.01.16-09.03.16:720][855]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.19:289][154]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_M.8m_Cube_PL_8m_Cube_PL_M
+[2020.01.16-09.03.19:292][154]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.19:334][154]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.19:345][154]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.19:372][154]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.19:385][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.03.19:628][161]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.20:944][276]LogSlate: Window '8m_Cube_PL_8m_Cube_PL_M' being destroyed
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.03.20:945][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.25:131][763]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.25:142][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.03.25:161][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.25:173][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.03.25:178][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.03.25:191][763]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.25:207][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.03.25:242][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.03.25:250][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.03.25:256][763]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.03.25:431][778]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.25:925][833]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.03.26:466][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.36:259][ 64]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.36:274][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.03.36:288][ 64]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.36:547][ 92]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.37:937][254]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.37:949][254]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.37:949][254]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.03.38:224][283]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: Base pass shader: 112 instructions
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: Texture samplers: 5/16
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.01.16-09.03.39:029][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.40:540][557]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.40:556][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.40:559][557]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.03.40:822][584]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: Base pass shader: 112 instructions
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.03.41:656][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.43:250][871]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.43:266][871]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.43:266][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.03.43:529][899]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.43:969][950]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.44:040][957]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.44:373][996]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.03.45:160][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.45:680][151]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.45:702][152]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.45:956][182]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.47:182][327]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.47:199][329]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.47:449][358]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.03.49:295][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.03.50:779][756]LogMaterialEditor: Saving and Compiling material 8m_Cube_PL_8m_Cube_PL_M
+[2020.01.16-09.03.51:123][756]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.51:164][756]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.03.51:167][756]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.51:199][756]LogMaterial: Display: Missing cached shader map for material 8m_Cube_PL_8m_Cube_PL_M, compiling. 
+[2020.01.16-09.03.51:247][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.16-09.03.51:254][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.03.52:019][756]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.03.52:021][756]TextureStreamingBuild: Display: Compiling optional shaders took 0.774 seconds.
+[2020.01.16-09.03.52:050][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.16-09.03.53:798][756]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL_8m_Cube_PL_M08552DDB46291DFDE38AD7ACE89BE98D.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cube_Platform/8m_Cube_PL_8m_Cube_PL_M.uasset'
+[2020.01.16-09.04.04:846][ 59]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.06:927][303]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_M.8m_Cylinder_PL_8m_Cylinder_PL_M
+[2020.01.16-09.04.06:930][303]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.06:974][303]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.06:985][303]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.06:987][303]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.07:030][303]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.04.07:237][305]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.07:492][322]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.08:037][359]LogSlate: Window '8m_Cylinder_PL_8m_Cylinder_PL_M' being destroyed
+[2020.01.16-09.04.08:272][387]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.04.08:273][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.04.08:273][387]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.04.08:273][387]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.04.08:273][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.04.08:273][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.04.12:004][818]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.12:016][818]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.12:016][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.04.12:050][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.04.12:056][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.04.12:068][818]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.12:084][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.04.12:120][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.04.12:126][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.04.12:133][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.04.12:281][830]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.12:765][884]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.04.13:352][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.04.22:567][ 54]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.22:584][ 54]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.22:587][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.04.22:843][ 81]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.24:181][236]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.24:196][236]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.24:199][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.04.24:466][264]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.25:810][421]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.25:826][421]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.25:826][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.04.26:105][449]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.26:805][529]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.26:815][529]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.27:073][558]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.28:060][674]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.28:074][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.28:335][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.04.29:297][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.04.30:338][944]LogMaterialEditor: Saving and Compiling material 8m_Cylinder_PL_8m_Cylinder_PL_M
+[2020.01.16-09.04.30:664][944]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.30:703][944]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.30:709][944]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.30:743][944]LogMaterial: Display: Missing cached shader map for material 8m_Cylinder_PL_8m_Cylinder_PL_M, compiling. 
+[2020.01.16-09.04.30:793][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.16-09.04.30:803][944]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.04.31:599][944]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.04.31:600][944]TextureStreamingBuild: Display: Compiling optional shaders took 0.806 seconds.
+[2020.01.16-09.04.31:628][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.01.16-09.04.33:436][944]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PL_8m_Cylinder_PL_MC4192E75448389CED6A9F8B4BB2FE18D.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/8m_Cylinder_Platform/8m_Cylinder_PL_8m_Cylinder_PL_M.uasset'
+[2020.01.16-09.04.56:996][749]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.04.58:671][943]LogAssetEditorManager: Opening Asset editor for Material /Game/Platformer_Parts/Textures/Triangle_Platform/Triangle_PL_Triangle_PL_M.Triangle_PL_Triangle_PL_M
+[2020.01.16-09.04.58:673][943]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.04.58:684][943]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.58:720][943]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.04.58:736][943]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.04.58:786][943]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.04.59:126][956]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.04.59:418][975]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.00:157][ 32]LogSlate: Window 'Triangle_PL_Triangle_PL_M' being destroyed
+[2020.01.16-09.05.00:257][ 44]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.05.00:257][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.05.00:258][ 44]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.05.00:258][ 44]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.05.00:258][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.05.00:258][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.05.05:232][626]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.05:243][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.05.05:251][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.05:276][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.05.05:281][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.05.05:294][626]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.05:307][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.05.05:339][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.16-09.05.05:345][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.05.05:351][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.05.05:517][639]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.05:974][692]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.07:211][838]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.01.16-09.05.07:212][838]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.01.16-09.05.07:212][838]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.05.07:212][838]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.16-09.05.07:212][838]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.16-09.05.07:212][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.05.19:100][264]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.19:114][264]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.19:117][264]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.01.16-09.05.19:388][292]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.20:890][468]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.20:908][468]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.20:908][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.05.21:190][498]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.22:922][700]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.22:935][700]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.22:935][700]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.01.16-09.05.23:223][730]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.23:958][814]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.23:987][815]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.24:249][845]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.25:132][949]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.25:158][952]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.25:436][984]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: Texture samplers: 6/16
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.01.16-09.05.26:554][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.16-09.05.27:905][278]LogMaterialEditor: Saving and Compiling material Triangle_PL_Triangle_PL_M
+[2020.01.16-09.05.28:229][278]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.28:271][278]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.16-09.05.28:271][278]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.28:303][278]LogMaterial: Display: Missing cached shader map for material Triangle_PL_Triangle_PL_M, compiling. 
+[2020.01.16-09.05.28:353][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.16-09.05.28:363][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.16-09.05.29:106][278]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.16-09.05.29:107][278]TextureStreamingBuild: Display: Compiling optional shaders took 0.755 seconds.
+[2020.01.16-09.05.29:134][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.16-09.05.30:966][278]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Triangle_PL_Triangle_PL_M5C26D0964C8EE962E6FC80B959B040FB.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Textures/Triangle_Platform/Triangle_PL_Triangle_PL_M.uasset'
+[2020.01.16-09.05.41:271][487]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/4m_Cube_PL.4m_Cube_PL
+[2020.01.16-09.05.42:880][649]LogSlate: Window '4m_Cube_PL' being destroyed
+[2020.01.16-09.05.44:507][842]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/8m_Cube_PL.8m_Cube_PL
+[2020.01.16-09.05.46:642][ 66]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/8m_Cylinder_PL.8m_Cylinder_PL
+[2020.01.16-09.05.48:293][217]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/Triangle_PL.Triangle_PL
+[2020.01.16-09.05.59:225][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.05.59:432][317]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/4m_Cube_PL64335369414DABBB2D04268DC2C4E074.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/4m_Cube_PL.uasset'
+[2020.01.16-09.06.09:536][459]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cube_PL85509BAD40DC6130C8E71FA3461669F0.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/8m_Cube_PL.uasset'
+[2020.01.16-09.06.16:466][255]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/8m_Cylinder_PLB389A05F4F3AD8E95A125C9E30BD7C1A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/8m_Cylinder_PL.uasset'
+[2020.01.16-09.06.34:714][399]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Triangle_PLE0B34D274EE7B37B5A6E3CAF7AB36239.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Triangle_PL.uasset'
+[2020.01.16-09.06.37:742][747]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Platformer_Parts/Spike_Ball.Spike_Ball
+[2020.01.16-09.06.39:128][884]LogSlate: Window 'Spike_Ball' being destroyed
+[2020.01.16-09.06.58:462][176]LogMaterial: Display: Missing cached shader map for material M_Plastic_black_Parent_2, compiling. 
+[2020.01.16-09.08.55:665][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.09.06:293][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.09.06:475][445]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Spike_BallD0CF676A418D936C47B1DA87D582D3FB.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Platformer_Parts/Spike_Ball.uasset'
+[2020.01.16-09.09.07:159][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.09.15:762][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_Ramp_4m2)
+[2020.01.16-09.09.21:069][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.09.29:047][105]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp needed to have new flag set bUsedWithStaticLighting !
+[2020.01.16-09.09.29:052][105]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2020.01.16-09.09.32:973][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.09.40:825][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.09.50:609][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.10.19:420][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_Ramp_4m)
+[2020.01.16-09.10.20:278][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.10.45:177][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.10.45:341][145]LogActorFactory: Actor Factory created 8m_Cube_PL
+[2020.01.16-09.10.45:952][216]LogActorFactory: Actor Factory created 8m_Cube_PL
+[2020.01.16-09.10.56:822][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform_L)
+[2020.01.16-09.10.57:406][560]Cmd: DELETE
+[2020.01.16-09.10.57:406][560]Cmd: ACTOR DELETE
+[2020.01.16-09.10.57:411][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.10.57:444][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.01.16-09.10.57:444][560]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.01.16-09.10.58:075][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL)
+[2020.01.16-09.11.21:564][410]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP)
+[2020.01.16-09.11.41:142][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.11.41:834][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.16-09.11.42:172][785]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer35625CE54044450C0B9F8A8A2C327B85.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.11.42:334][785]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltData7A7268C04929E90DCEABE49B912585AC.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-09.11.46:146][239]LogEditorViewport: Clicking on Actor (LMB): Cylinder_C (Skewers1)
+[2020.01.16-09.11.48:603][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.11.52:288][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.11.52:289][972]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Cylinder.Cylinder
+[2020.01.16-09.12.15:532][715]BlueprintLog: New page: Compile Cylinder
+[2020.01.16-09.12.15:680][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.01.16-09.12.16:146][749]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/CylinderEB9C44344BC49CDC9B5E66B087E4A2A5.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Cylinder.uasset'
+[2020.01.16-09.12.17:797][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.01.16-09.12.18:133][926]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/PlatformerF4905A7045227D9CBEB3F5AF105D862A.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.12.18:295][926]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltDataD24049E94F24A2F118D3E1A3510CF43F.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-09.12.20:337][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.12.20:396][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.16-09.12.20:414][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.12.20:414][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-09.12.20:414][175]PIE: New page: PIE session: Platformer (16/1/2020 11:12:20)
+[2020.01.16-09.12.20:414][175]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.12.20:430][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015767s)
+[2020.01.16-09.12.20:430][175]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.12.20:430][175]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2020.01.16-09.12.20:430][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.016440s)
+[2020.01.16-09.12.20:460][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.01.16-09.12.20:469][175]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.16-09.12.20:504][175]LogInit: FAudioDevice initialized.
+[2020.01.16-09.12.20:509][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.12.20:536][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.12.20:539][175]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.12.20
+[2020.01.16-09.12.20:539][175]LogWorld: Bringing up level for play took: 0.002752
+[2020.01.16-09.12.20:554][175]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.12.20:556][175]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer 1,139
+[2020.01.16-09.12.20:556][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.12.25:773][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.12.25:774][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.12.25:787][800]LogSlate: Window 'TheRescueBeckpack Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.16-09.12.25:825][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-09.12.25:825][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.12.25:860][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.01.16-09.12.25:867][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.12.25:884][801]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.01.16-09.12.28:494][109]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.12.28:497][109]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.12.29:003][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.12.34:946][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL)
+[2020.01.16-09.12.55:465][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform_L2)
+[2020.01.16-09.12.56:723][389]Cmd: DELETE
+[2020.01.16-09.12.56:724][389]Cmd: ACTOR DELETE
+[2020.01.16-09.12.56:726][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.12.56:753][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.16-09.12.56:753][389]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.01.16-09.12.57:518][481]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP2)
+[2020.01.16-09.13.08:617][775]LogEditorViewport: Clicking on Actor (LMB): Cylinder_C (Skewers1)
+[2020.01.16-09.13.17:693][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform5)
+[2020.01.16-09.13.20:540][173]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP2)
+[2020.01.16-09.13.25:675][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2020.01.16-09.13.26:578][886]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP9)
+[2020.01.16-09.13.36:880][ 77]LogEditorViewport: Clicking on Actor (LMB): Cylinder_C (Skewers1)
+[2020.01.16-09.13.43:480][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.13.44:643][985]LogActorFactory: Actor Factory created 16m_Cube_PL
+[2020.01.16-09.13.45:243][ 55]LogActorFactory: Actor Factory created 16m_Cube_PL
+[2020.01.16-09.13.58:753][650]Cmd: DELETE
+[2020.01.16-09.13.58:753][650]Cmd: ACTOR DELETE
+[2020.01.16-09.13.58:756][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.13.58:790][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.01.16-09.13.58:790][650]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.01.16-09.14.07:838][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.14.07:973][749]LogActorFactory: Actor Factory created 16m_Cube_PL
+[2020.01.16-09.14.08:958][866]LogActorFactory: Actor Factory created 16m_Cube_PL
+[2020.01.16-09.14.13:839][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_Ramp_4m)
+[2020.01.16-09.14.15:191][582]Cmd: DELETE
+[2020.01.16-09.14.15:191][582]Cmd: ACTOR DELETE
+[2020.01.16-09.14.15:193][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.14.15:219][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.01.16-09.14.15:221][582]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.16-09.14.15:906][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_Ramp_4m2)
+[2020.01.16-09.14.16:053][678]Cmd: DELETE
+[2020.01.16-09.14.16:053][678]Cmd: ACTOR DELETE
+[2020.01.16-09.14.16:056][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.14.16:084][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.01.16-09.14.16:085][678]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.01.16-09.14.16:653][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (16m_Cube_PL3)
+[2020.01.16-09.15.05:595][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (16m_Cube_PL3)
+[2020.01.16-09.15.08:725][937]Cmd: TRANSACTION UNDO
+[2020.01.16-09.15.08:725][937]LogEditorTransaction: Undo Scale Actors
+[2020.01.16-09.15.09:963][ 82]Cmd: TRANSACTION UNDO
+[2020.01.16-09.15.09:963][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.16-09.15.22:011][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (16m_Cube_PL3)
+[2020.01.16-09.15.22:450][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2020.01.16-09.16.31:703][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.16.32:542][955]LogActorFactory: Actor Factory created Spike_Ball
+[2020.01.16-09.16.33:461][ 64]LogActorFactory: Actor Factory created Spike_Ball
+[2020.01.16-09.16.39:441][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2020.01.16-09.16.41:357][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Spike_Ball2)
+[2020.01.16-09.16.42:648][130]Cmd: DELETE
+[2020.01.16-09.16.42:648][130]Cmd: ACTOR DELETE
+[2020.01.16-09.16.42:650][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.16.42:681][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.01.16-09.16.42:682][130]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.01.16-09.16.45:145][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.16.58:855][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.16.58:913][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.16-09.16.58:928][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.16.58:928][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-09.16.58:928][ 74]PIE: New page: PIE session: Platformer (16/1/2020 11:16:58)
+[2020.01.16-09.16.58:928][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.16.58:937][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009288s)
+[2020.01.16-09.16.58:938][ 74]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.16.58:938][ 74]LogPlayLevel: PIE: World Init took: (0.000441s)
+[2020.01.16-09.16.58:938][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.009821s)
+[2020.01.16-09.16.58:964][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.01.16-09.16.58:977][ 74]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.16-09.16.59:010][ 74]LogInit: FAudioDevice initialized.
+[2020.01.16-09.16.59:015][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.16.59:043][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.16.59:046][ 74]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.16.59
+[2020.01.16-09.16.59:047][ 74]LogWorld: Bringing up level for play took: 0.002465
+[2020.01.16-09.16.59:062][ 74]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.16.59:064][ 74]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer -0,366
+[2020.01.16-09.16.59:064][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.17.03:693][627]LogNet: Browse: /Game/ThirdPersonBP/Maps/Platformer
+[2020.01.16-09.17.03:693][627]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Platformer
+[2020.01.16-09.17.03:724][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.16-09.17.03:724][627]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.17.03:733][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008972s)
+[2020.01.16-09.17.03:733][627]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.17.03:734][627]LogPlayLevel: PIE: World Init took: (0.000369s)
+[2020.01.16-09.17.03:734][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.009439s)
+[2020.01.16-09.17.03:734][627]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.17.03:736][627]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.17.03
+[2020.01.16-09.17.03:736][627]LogWorld: Bringing up level for play took: 0.002167
+[2020.01.16-09.17.03:740][627]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.17.03:740][627]LogLoad: Took 0.047650 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer)
+[2020.01.16-09.17.24:026][ 57]LogBlueprintUserMessages: [Skewers1_2] Hello
+[2020.01.16-09.17.27:292][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.17.27:292][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.17.27:306][449]LogSlate: Window 'TheRescueBeckpack Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.16-09.17.27:341][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-09.17.27:341][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.17.27:378][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.16-09.17.27:401][450]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.01.16-09.17.28:600][594]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.17.28:604][594]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.17.31:796][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.01.16-09.17.32:115][972]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/PlatformerCCB344B94CC06C796047CFA4BE646CAB.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.17.32:283][972]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltDataA82FD8B64B57200E561D3D9479909D25.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-09.18.06:699][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.16-09.18.07:702][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Skewer_Ball.Skewer_Ball
+[2020.01.16-09.18.28:682][626]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Skewer_Ball08748F71422C1681674620996F950CE2.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Skewer_Ball.uasset'
+[2020.01.16-09.18.29:895][760]BlueprintLog: New page: Compile Skewer_Ball
+[2020.01.16-09.18.30:036][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.16-09.18.50:558][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.18.55:631][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.19.10:938][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.19.38:771][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.19.44:941][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-09.19.45:094][488]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Skewer_BallB3708E10472475107E675FA98D77E3CF.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Skewer_Ball.uasset'
+[2020.01.16-09.19.46:096][604]BlueprintLog: New page: Compile Skewer_Ball
+[2020.01.16-09.19.46:272][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.01.16-09.19.46:988][669]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Skewer_Ball68DD10ED451D5068C0C9949A9F6A1FE0.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Skewer_Ball.uasset'
+[2020.01.16-09.19.50:301][ 57]LogSlate: Window 'Skewer_Ball' being destroyed
+[2020.01.16-09.19.56:112][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.20.08:388][192]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Skewer_Ball5E13B22F492FB68B5561049CEC30BAC4.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Skewer_Ball.uasset'
+[2020.01.16-09.20.12:678][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.20.12:736][709]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.16-09.20.12:756][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.20.12:756][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-09.20.12:756][709]PIE: New page: PIE session: Platformer (16/1/2020 11:20:12)
+[2020.01.16-09.20.12:756][709]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.20.12:765][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009087s)
+[2020.01.16-09.20.12:766][709]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.20.12:766][709]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2020.01.16-09.20.12:766][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.009577s)
+[2020.01.16-09.20.12:797][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.16-09.20.12:807][709]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.16-09.20.12:839][709]LogInit: FAudioDevice initialized.
+[2020.01.16-09.20.12:843][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.20.12:874][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.20.12:878][709]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.20.12
+[2020.01.16-09.20.12:879][709]LogWorld: Bringing up level for play took: 0.003678
+[2020.01.16-09.20.12:899][709]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.20.12:900][709]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer -0,534
+[2020.01.16-09.20.12:900][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.20.29:252][669]LogBlueprintUserMessages: [Skewer_Ball_2] Hello
+[2020.01.16-09.20.31:100][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.20.31:100][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.20.31:114][891]LogSlate: Window 'TheRescueBeckpack Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.16-09.20.31:143][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-09.20.31:143][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.20.31:183][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.16-09.20.31:206][892]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.01.16-09.20.32:817][ 85]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.20.32:821][ 85]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.20.33:900][215]LogEditorViewport: Clicking on Actor (LMB): Skewer_Ball_C (Skewer_Ball)
+[2020.01.16-09.20.44:885][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.21.10:214][503]LogEditorTransaction: Undo Delete current selection
+[2020.01.16-09.21.17:599][381]BlueprintLog: New page: Compile Skewer_Ball
+[2020.01.16-09.21.17:773][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.16-09.21.18:283][418]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Skewer_Ball3E405A4E49EBEA6F65A6B297D1B766DC.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/Blueprints/Skewer_Ball.uasset'
+[2020.01.16-09.21.20:436][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OceanWater2)
+[2020.01.16-09.21.22:613][931]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP2)
+[2020.01.16-09.21.31:521][956]Cmd: TRANSACTION UNDO
+[2020.01.16-09.21.31:521][956]LogEditorTransaction: Undo Move Actors
+[2020.01.16-09.21.35:838][452]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_BP_C (Checkpoint_BP)
+[2020.01.16-09.21.42:331][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform5)
+[2020.01.16-09.21.43:698][358]Cmd: DELETE
+[2020.01.16-09.21.43:698][358]Cmd: ACTOR DELETE
+[2020.01.16-09.21.43:701][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.21.43:729][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.16-09.21.43:729][358]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.01.16-09.21.44:553][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_8m_Platform_Hrnd)
+[2020.01.16-09.21.44:836][487]Cmd: DELETE
+[2020.01.16-09.21.44:836][487]Cmd: ACTOR DELETE
+[2020.01.16-09.21.44:838][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-09.21.44:868][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.01.16-09.21.44:868][487]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.01.16-09.21.47:172][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.21.48:998][979]LogActorFactory: Actor Factory created Triangle_PL
+[2020.01.16-09.21.49:531][ 42]LogActorFactory: Actor Factory created Triangle_PL
+[2020.01.16-09.22.22:718][935]LogEditorViewport: Clicking on Actor (LMB): Cylinder_C (Skewers1)
+[2020.01.16-09.22.30:692][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Triangle_PL)
+[2020.01.16-09.22.32:977][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL2)
+[2020.01.16-09.22.39:697][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL2)
+[2020.01.16-09.22.57:164][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.22.57:256][996]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.16-09.22.57:273][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.22.57:274][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-09.22.57:274][996]PIE: New page: PIE session: Platformer (16/1/2020 11:22:57)
+[2020.01.16-09.22.57:274][996]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.22.57:283][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009265s)
+[2020.01.16-09.22.57:283][996]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.22.57:283][996]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2020.01.16-09.22.57:284][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.009790s)
+[2020.01.16-09.22.57:311][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.01.16-09.22.57:320][996]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.16-09.22.57:354][996]LogInit: FAudioDevice initialized.
+[2020.01.16-09.22.57:359][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.22.57:393][996]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.22.57:397][996]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.22.57
+[2020.01.16-09.22.57:398][996]LogWorld: Bringing up level for play took: 0.004539
+[2020.01.16-09.22.57:416][996]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.22.57:417][996]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer -0,02
+[2020.01.16-09.22.57:418][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.22.59:180][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.22.59:180][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.22.59:194][206]LogSlate: Window 'TheRescueBeckpack Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.16-09.22.59:229][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-09.22.59:229][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.22.59:268][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.16-09.22.59:291][207]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.01.16-09.23.00:467][348]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.23.00:471][348]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.23.01:201][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL2)
+[2020.01.16-09.23.02:559][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (8m_Cube_PL3)
+[2020.01.16-09.23.03:959][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.23.12:214][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.16-09.23.12:228][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.23.12:228][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-09.23.12:228][749]PIE: New page: PIE session: Platformer (16/1/2020 11:23:12)
+[2020.01.16-09.23.12:228][749]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer
+[2020.01.16-09.23.12:238][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009347s)
+[2020.01.16-09.23.12:238][749]LogAIModule: Creating AISystem for world Platformer
+[2020.01.16-09.23.12:238][749]LogPlayLevel: PIE: World Init took: (0.000379s)
+[2020.01.16-09.23.12:238][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Platformer.Platformer to /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer (0.009817s)
+[2020.01.16-09.23.12:265][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.16-09.23.12:274][749]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.16-09.23.12:305][749]LogInit: FAudioDevice initialized.
+[2020.01.16-09.23.12:308][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.23.12:337][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.16-09.23.12:340][749]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer.Platformer up for play (max tick rate 0) at 2020.01.16-10.23.12
+[2020.01.16-09.23.12:340][749]LogWorld: Bringing up level for play took: 0.002515
+[2020.01.16-09.23.12:359][749]PIE: Warning: The widget 'Information_UI_C' was already added to the screen.
+[2020.01.16-09.23.12:360][749]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Platformer 0,922
+[2020.01.16-09.23.12:360][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.23.17:206][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.23.17:207][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-09.23.17:220][329]LogSlate: Window 'TheRescueBeckpack Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.16-09.23.17:253][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-09.23.17:253][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer' with GeneratedClass '/Game/ThirdPersonBP/Maps/Platformer.Platformer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Platformer.Platformer:PersistentLevel.Platformer'
+[2020.01.16-09.23.17:287][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.01.16-09.23.17:310][330]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.01.16-09.23.18:409][462]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.23.18:413][462]LogSlate: Window 'Message Log' being destroyed
+[2020.01.16-09.23.19:345][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.16-09.23.19:682][569]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer8ECD42664E5B74958B351CB72ADFA480.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.23.19:854][569]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltData85522D634659D1BCEDEA5C86CE8633DC.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-09.23.33:700][227]LogEditorViewport: Clicking on Actor (LMB): Cylinder_C (Skewers1)
+[2020.01.16-09.23.38:725][803]LogEditorViewport: Clicking on Actor (LMB): Pl_Coin_01_C (Pl_Coin_12)
+[2020.01.16-09.23.50:305][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-09.23.50:411][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.16-09.23.50:749][137]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer0BC1E2AE4C6DBC6ABD52BCBF038A5628.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer.umap'
+[2020.01.16-09.23.50:914][137]LogSavePackage: Moving '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Saved/Platformer_BuiltData28829F7B4289372A3D31FE830F3FB49E.tmp' to '../../../../../../Users/diana.martin/Documents/RepoGit/TheRescueBackpack/TheRescueBackpack_DianaMartin/Content/ThirdPersonBP/Maps/Platformer_BuiltData.uasset'
+[2020.01.16-09.23.51:367][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
